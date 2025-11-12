@@ -18,6 +18,13 @@
 // console.log(x)
 
         //for String
-let isLoggedIn = ""         //for empty string it gives false and when there is a character in string it gives true
-let x = Boolean(isLoggedIn)
-console.log(x)
+// let isLoggedIn = ""         //for empty string it gives false and when there is a character in string it gives true
+// let x = Boolean(isLoggedIn)
+// console.log(x)
+
+/*************************************************OPERATIONS*************************************************************** */
+
+console.log("1"+2+2)
+console.log(1+2+"2")
+console.log("1"+2+"2")
+console.log(1+"2"+2)
